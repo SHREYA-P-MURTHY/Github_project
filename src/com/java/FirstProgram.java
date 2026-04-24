@@ -1,9 +1,9 @@
 package com.java;
 
 public class FirstProgram {
-
-	public FirstProgram() {
-		// TODO Auto-generated constructor stub
+		void print()
+		{
+			System.out.println("Welcome back to github session 2");
+		}
 	}
 
-}
